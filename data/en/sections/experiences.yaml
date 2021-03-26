@@ -1,0 +1,83 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: CDW UK
+    url: "https://uk.cdw.com"
+    location: London Office
+    # company overview
+    overview: CDW is a leading multi-brand technology solutions provider to business, government, education and healthcare customers in the United Kingdom, the United States, and Canada. 
+  positions:
+  - designation: Solution Architect - Hybrid Infrastructure
+    start: Sep 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop XYZ tool for ABC task
+    - Lead backend team.
+
+- company:
+    name: NATILIK
+    url: "https://www.natilik.com"
+    location: London Office
+    overview: Natilik is a specialist IT and Communications provider. 
+  positions:
+  - designation: Solution Architect - Enterprise Networks, Datacenter and Security
+    start: July 2017
+    end: Sep 2019
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+  - designation: System Engineer 
+    start: Aug 2015
+    end: Jul 2017
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: Network Technology Systems (NTSUK)
+    url: ""
+    location: Witney, Oxford
+    overview: NTSUK delivers IT consultancy services and infrastructure solution in the UK and across Europe.
+  positions:
+  - designation: Technical Pre-Sales Engineer
+    start: Mar 2012
+    end: Aug 2015
+    responsibilities:
+    - Count lost of interns.
+
+  - designation: Internal Account Manager 
+    start: Oct 2011
+    end: Mar 2012
+    responsibilities:
+    - Create customer quotations 
+    - Generate my own client-base 
+    - Request quotes from key suppliers 
+    - Follow-up with clients on service/support renewals
+    - Primary point of contact for transational client requests
+    - Keep ERP/CRM system up to date with all active oppertunities and projects
+
+  - designation: TeleMarketing Executive 
+    start: May 2011 
+    end: Oct 2011
+    responsibilities:
+    - Training new Telemarketing executives
+    - Making B2B outbound telemarketing calls
+    - Working with key vendors to build marketing campaigns
+    - Attending and presenting at industry events such as IP-EXPO
+    - Selling a range of products and services to both new and existing customers
+    - Generating leads and booking appointments with prospects and existing clients

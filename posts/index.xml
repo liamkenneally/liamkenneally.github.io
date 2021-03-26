@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Welcome to my Site</title><link>http://liamkenneally.co.uk/posts/</link><description>Recent content in Posts on Welcome to my Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://liamkenneally.co.uk/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>http://liamkenneally.co.uk/posts/introduction/</link><pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate><guid>http://liamkenneally.co.uk/posts/introduction/</guid><description>Greeting! This is an introduction post. This post tests the followings:
 Hero image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file. Test A bit more info
-Heading 2 More stuff</description></item></channel></rss>
+Heading 2 More stuff
+Even more stuff :)</description></item></channel></rss>

@@ -15,6 +15,9 @@ Greeting! This is an introduction post. This post tests the followings:
 - This post should be at top of the sidebar.
 - Post author should be the same as specified in `author.yaml` file.
 
+<p align="center">
+  <img src="ciscologo.png" />
+</p>
 
 ![Image Test Cisco](ciscologo.png)
 # Test

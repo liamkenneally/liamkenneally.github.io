@@ -15,6 +15,8 @@ Greeting! This is an introduction post. This post tests the followings:
 - This post should be at top of the sidebar.
 - Post author should be the same as specified in `author.yaml` file.
 
+![image 1 example](/images/logo/test.png)
+
 # Test
 A bit more info
 

@@ -1,0 +1,104 @@
+# section information
+section:
+  name: Work Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: CDW UK
+    url: "https://uk.cdw.com"
+    location: Farringdon, London
+    # company overview
+    overview: CDW is a leading multi-brand technology solutions provider to business, government, education and healthcare customers in the United Kingdom, the United States, and Canada. 
+  positions:
+  - designation: Solution Architect - Hybrid Infrastructure
+    start: Sep 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Solution Architect focused and specilising around "Hybrid Infrastructure". Agnostic to vendor, I look to align technologies to business and technical drivers to meet business goals
+    - Part of a virtual Automation and Orchestration team, responsible for the promotion, adoption and inclusion of DevOps/Agile projects within CDW. 
+    - Part of a virtual Technical Design Authority (TDA) team, responsible for creating, updating and maitaining technical documentation for networking and datacentre proposals/HLDs
+
+
+- company:
+    name: NATILIK
+    url: "https://www.natilik.com"
+    location: Devonshire Square, London
+    overview: Natilik is a specialist IT and Communications provider. 
+  positions:
+  - designation: Solution Architect - Enterprise Networks, Datacenter and Security
+    start: July 2017
+    end: Sep 2019
+    responsibilities:
+    - Worked with New Business Account Directors aligned to London Enterprise to land net new logos. 
+    - Working with other SMEs and virtual teams within NATILIK to drive the DevOps and Automation practice. 
+    - Dedicated Solution Architect for the "London Enterprise" Sales Team. Working with around 8 Account Directors and approximately 50 stratigic accounts. 
+    - Worked with Account Directors to expand client business. Conducting Account Analysis and White-Space matrix to identify cross-sell and up-sell oppertunities 
+    - Subject Matter Expert(SME) for Cisco Enterprise and Datacentre Technologies. Provided a virtual SME function across Commercial, National and Enterpise teams. 
+    - Subject Matter Expert(SME) for Software Defined "X" technologies; Software Defined DC (SDDC), Software Defined WAN (SDWAN) and Software Defined LAN (SD Campus)
+    - Sunject Matter Expert(SME) for Network and Datacenter Automation. Including DevOps, Infrastructure as Code (IaC) and CI/CD Pipelines etc. 
+    - Maintained and expanded the NATILIK EBC to include network and Datacenter automation and conduct "Art of the possible" demonstrations. 
+
+
+  - designation: System Engineer 
+    start: Aug 2015
+    end: Jul 2017
+    responsibilities:
+    - Conduct Requriements Capture, Planning and Design Sessions with Clients
+    - Create Solution Proposals, Bill of Materials and High-Level Designs(HLDs)
+    - Goto System Engineer for Cisco Networking and DataCentre technologies within NATILIK
+    - Conduct Proof of Concept and Showcases for clients at NATILIKs Executive Breifing Center(EBC)
+    - Provide Handover sessions with Implemention Consultants and provided Pre-Sales Technical escalations throughout solution project lifecycle
+    - Responsible for Design and Deployment of Enterprise Networking and Datacentre solutions deployed into the NATILIK Executive Breifing Center(EBC)
+    - Responsible for the creating of customer "Journeys" (Scripted demonstations) of Enterprise Networking and Datacentre solutions deployed in the NATILIK EBC. 
+
+
+- company:
+    name: Network Technology Systems (NTSUK)
+    url: ""
+    location: Witney, Oxford
+    overview: NTSUK delivers IT consultancy services and infrastructure solution in the UK and across Europe.
+  positions:
+  - designation: Technical Pre-Sales Engineer
+    start: Mar 2012
+    end: Aug 2015
+    responsibilities:
+    - Maintain internal IT Systems
+    - Attend Client meetings with Sales Teams
+    - Staging and provisioning of various IT equipment
+    - Generate Bills of Materials (BoMs) for vendor solutions
+    - Technical Account Management of key Enterprise Clients 
+    - Conduct Requriements Capture, Planning and Design Sessions with Clients
+    - Create Solution Proposals, High-Level Designs(HLDs) and Low-Level Designs(LLDs)
+    - Implementation of core technologies, including ongoing lifecycle support services
+    
+
+  - designation: Internal Account Manager 
+    start: Oct 2011
+    end: Mar 2012
+    responsibilities:
+    - Create customer quotations 
+    - Generate my own client-base 
+    - Request quotes from key suppliers 
+    - Follow-up with clients on service/support renewals
+    - Primary point of contact for transational client requests
+    - Keep ERP/CRM system up to date with all active oppertunities and projects
+
+  - designation: TeleMarketing Executive 
+    start: May 2011 
+    end: Oct 2011
+    responsibilities:
+    - Training new Telemarketing executives
+    - Making B2B outbound telemarketing calls
+    - Working with key vendors to build marketing campaigns
+    - Attending and presenting at industry events such as IP-EXPO
+    - Selling a range of products and services to both new and existing customers
+    - Generating leads and booking appointments with prospects and existing clients

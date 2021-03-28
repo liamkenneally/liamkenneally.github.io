@@ -35,3 +35,5 @@ jobs:
         publish_branch: main # if your main branch is `master` use that here.
         publish_dir: ./public
         # cname: liamkenneally.com
+        # cname flag above didnt work. Used public/CNAME in the end
+        # Which worked as required.

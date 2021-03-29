@@ -2,7 +2,4 @@
 No content shown here is rendered, all content is based in the template layouts/page/search.html
 Setting a very low sitemap priority will tell search engines this is not important content.
 This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description></item><item><title>Introduction</title><link>http://liamkenneally.co.uk/posts/introduction/</link><pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate><guid>http://liamkenneally.co.uk/posts/introduction/</guid><description>Greeting! This is an introduction post. This post tests the followings:
-Hero image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file. Test A bit more info
-Heading 2 More stuff
-Even more stuff :)</description></item></channel></rss>
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&amp;ldquo;HTML&amp;rdquo;, &amp;ldquo;JSON&amp;rdquo;] ```</description></item></channel></rss>

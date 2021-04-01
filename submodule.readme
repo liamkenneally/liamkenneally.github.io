@@ -1,6 +1,0 @@
-DO NOT FORGET TO git pull the latest verson of the submodule
-BEFORE pushing to git. 
-To stop accidental commits of stale \themes folder I have 
-added it to gitignore for now.
-To update a submodule(s)
-git submodule foreach git pull

@@ -7,9 +7,9 @@ theme: "toha"
 # The inverted logo will be used in the initial transparent navbar and
 # the main logo will be used in the non-transparent navbar.
 logo:
-  main: "test.png"
-  inverted: "test.png"
-  favicon: "test.png"
+  main: "/images/test.png"
+  inverted: "/images/test.png"
+  favicon: "/images/test.png"
 
 # Site background
 #background: "images/<your background image name(with file extension)>"

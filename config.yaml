@@ -9,7 +9,7 @@ theme: "toha"
 logo:
   main: "images/test.png"
   inverted: "images/test.png"
-  favicon: "images/test.png"
+  favicon: "images/favicon.png"
 
 # Site background
 #background: "images/<your background image name(with file extension)>"

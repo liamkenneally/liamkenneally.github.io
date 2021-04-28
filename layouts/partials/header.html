@@ -34,6 +34,4 @@
 <!--================= custom style overrides =========================-->
 <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}"/>
 
-{{ if not (in (string .Site.BaseURL) "localhost") }}
 {{ template "_internal/google_analytics_async.html" . }}
-{{ end }}

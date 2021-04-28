@@ -11,6 +11,7 @@ theme: "toha"
 # "inverted-png"
 # "favicon.png"
 # A file called "images/test.png" WILL NOT WORK! 
+#
 
 logo:
   main: "images/main-logo.png"

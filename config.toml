@@ -7,7 +7,7 @@ theme = "ramium"
 title = "liamkenneally.co.uk"
 disqusShortname = "disqus-code"
 # added "ID on the end for GA4
-# googleAnalytics = "G-QEJ21GBKJR"
+googleAnalytics = "G-QEJ21GBKJR"
 pluralizeListTitles = false
 enableemoji = false
 

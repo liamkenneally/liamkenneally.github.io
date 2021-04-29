@@ -7,7 +7,7 @@ theme = "ramium"
 title = "liamkenneally.co.uk"
 disqusShortname = "disqus-code"
 # added "ID on the end for GA4
-googleAnalyticsID = "G-QEJ21GBKJR"
+# googleAnalytics = "G-QEJ21GBKJR"
 pluralizeListTitles = false
 enableemoji = false
 
@@ -22,6 +22,7 @@ enableemoji = false
     sectionsInHome = 5  # set zero to not show in home page
     paginatePostsPerPage = 5
     paginateTagsPerPage = 6
+    googleAnalyticsID = "G-QEJ21GBKJR"
 
 [taxonomies]
     tag = "tags"

@@ -5,7 +5,7 @@ languageCode = "en-us"
 theme = "ramium"
 
 title = "liamkenneally.co.uk"
-disqusShortname = "liamkenneally-co-uk.disqus.com"
+disqusShortname = "#liamkenneally-co-uk.disqus.com"
 # added "ID on the end for GA4
 googleAnalytics = "G-QEJ21GBKJR"
 pluralizeListTitles = false
